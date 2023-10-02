@@ -18,7 +18,9 @@ Seja bem vindo!
 ![Spring](https://img.shields.io/badge/spring-0?style=for-the-badge&logo=spring&labelColor=white)
 ![SpringBoot](https://img.shields.io/badge/spring%20boot-0?style=for-the-badge&logo=springboot&labelColor=white)
 
- ## Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexSilvaCB&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <h1> Detalhes </h1>
+<img   height="200em" src="https://github-readme-stats.vercel.app/api?username=AlexSilvaCB&count_private=true&show_icons=true&theme=dracula"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilvaCB&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexSilvaCB&layout=compact&theme=dracula"/>
+</div>
