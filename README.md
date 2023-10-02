@@ -1,5 +1,8 @@
 # Alex Silva
 Seja bem vindo!
+<div align="center">
+ <img width="400px" src="alex silva.gif" />
+</div>
 
 ## Linguagens e Frameworks
 
